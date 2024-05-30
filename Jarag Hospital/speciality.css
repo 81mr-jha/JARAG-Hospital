@@ -1,0 +1,557 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.speciality-contact-details-secton1{
+    background-color: #75A43D;
+
+    padding: 10px;
+}
+.speciality-contact-details-secton1-span{
+    color: white;
+}
+.speciality-contact-details-secton1-row1-div{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    font-family: "Poppins";
+    font-size: 1rem;
+    font-weight: 500;
+
+}
+.speciality-contact-details-secton1-row1-div-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.speciality-part-section1 {
+    background-image: url('images/Sec1-background-image1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    justify-content: start; 
+    align-items: center;     
+}
+
+.speciality-part-section1-heading {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    width: 40%;
+    background-color: rgba(255, 254, 254, 0.701); 
+    backdrop-filter: blur(2px);
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.speciality-part-section1-heading-p {
+    font-family: "Poppins";
+    font-size: 3rem;
+    font-weight: 700;
+    color: black;
+    text-align: center;      
+    margin: 0px;
+}
+.speciality-part-section2{
+    background-image: url("images/Sec2-background-imag2.png");
+    background-repeat: no-repeat;
+    height: auto;
+    padding: 20px;
+    /* width: 100vw; */
+
+}
+.speciality-part-section2-heading-p{
+    font-family: "Poppins";
+    color: black;
+    font-size: 3rem;
+    /* border-bottom: 4px solid white; */
+    font-weight: 700;
+    padding: 10px;
+}
+.speciality-part-section2 .card {
+    height: 100%;
+    border-radius: 12px;
+}
+.speciality-part-section2 .card:hover{
+    background-color: #070b0124;
+    color: white;
+}
+
+.speciality-part-section2 h5{
+    /* color: #75A43D; */
+    font-family: "Poppins";
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.speciality-part-section2 p{
+    font-family: 'Poppins';
+    font-size: 0.9rem;
+}
+.speciality-part-section3-p{
+    font-family: "Poppins";
+    color: #75A43D;
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 20px;
+}
+.speciality-part-section3 img{
+    width: -webkit-fill-available;
+}
+.speciality-part-section3-p2{
+    font-family: "Poppins";
+    color: #75A43D;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 20px;
+} 
+.speciality-part-section3-ul li{
+    font-family: "Poppins";
+    color: #75A43D;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 20px;
+
+    span{
+        color: black;
+    }
+}
+.speciality-part-section3-next-part{
+    padding: 40px;
+}
+.next-get-intouch-btn{
+    background-color: #E4A736;
+    width: 35%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+    
+    .next-get-intouch-btn-p3{
+        font-size: 1.2rem;
+        font-family: "Poppins";
+        color: white;
+        margin: 0px;
+        text-align: center;
+        font-weight: 600;
+    }
+    
+    .Arrow-btn-image-sec3{
+        width: 10%;
+    }
+    .speciality-part-section3-next-part-right-side-div-image{
+        width: 20%;
+    }
+}
+
+.speciality-part-section4{
+    background-color: 
+    #F1F6EC;
+    background-image: url("images/section4-right-div-bg-image.png");
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 40%;
+}
+.speciality-part-section4-row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.speciality-part-section4-left-div1{
+    background-color: 
+    #E4A736;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(12, 1, 1, 0.1);
+}
+.speciality-part-section4-right-div1{
+    background-color: 
+    #F3FFE4;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.speciality-part-section4-left-div1-p1{
+    color: white;
+    font-family: "Poppins";
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 7% 5% 7% 3%;
+}
+.speciality-part-section4-left-div1-p2{
+    color: black;
+    font-family: "Poppins";
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 7% 5% 7% 3%;
+}
+
+.speciality-part-section4{
+    padding: 2% 0% 5% 0%;
+}
+.speciality-part-section4-paragraph{
+    color: #75A43D;
+    font-family: "Poppins";
+    font-size: 3rem;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 400px) {
+    .speciality-contact-details-secton1-row1-div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        gap: 10px;
+        font-family: "Poppins";
+        font-size: 0.8rem;
+        font-weight: 500;
+        padding: 10px;
+    }
+    .speciality-part-section1 {
+        /* background-image: none; */
+        background-size: contain;
+        /* background-position: center top; */
+        height: auto;
+    }
+    .speciality-part-section1-heading {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        /* width: 0%; */
+        margin: 6% 0% 6% 0%;
+        box-shadow: none;
+    }
+    .speciality-part-section1-heading-p {
+        font-family: "Poppins";
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: black;
+        text-align: center;
+        margin: 0px;
+    }
+    .speciality-part-section2-heading-p {
+        font-size: 1.3rem;
+        border-bottom: 0px;
+        font-weight: 700;
+        padding: 10px;
+    }
+    .speciality-part-section2 {
+        background-repeat: repeat-y;
+        height: auto;
+        padding: 20px;
+    }
+    .speciality-part-section2 .card {
+        height: auto;
+        margin-top: 10px;
+    }
+    .speciality-part-section3-p {
+        font-family: "Poppins";
+        color: #75A43D;
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 20px;
+    }
+    .speciality-part-section3-next-part {
+        padding: 0px;
+    }
+    .next-get-intouch-btn {
+        background-color: #E4A736;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 0% 9% 7% 4%;
+    }
+    .speciality-part-section4-paragraph {
+        font-size: 2rem;
+    }
+
+}
+
+@media screen and (min-width:400px) and (max-width:500px){
+    .speciality-part-section3 .card{
+        width: 50%;
+        margin: 4% 1% 4% 25%;
+    }
+
+    .speciality-contact-details-secton1-row1-div {
+        font-size: 0.8rem;
+    }
+    .speciality-contact-details-secton1-row1-div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        gap: 10px;
+        font-family: "Poppins";
+        font-size: 0.8rem;
+        font-weight: 500;
+        padding: 12px;
+    }
+    .speciality-part-section1 {
+        background-image: none;
+        background-size: contain;
+        /* background-position: center top; */
+        height: auto;
+    }
+    .speciality-part-section1-heading {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        margin: 6% 0% 6% 0%;
+        box-shadow: none;
+    }
+    .speciality-part-section1-heading-p {
+        font-family: "Poppins";
+        font-size: 2rem;
+        font-weight: 700;
+        color: black;
+        text-align: center;
+        margin: 0px;
+    }
+    .speciality-part-section2-heading-p {
+        font-size: 2rem;
+        border-bottom: 0px;
+        font-weight: 700;
+        padding: 10px;
+    }
+    .speciality-part-section2 {
+        background-repeat: repeat-y;
+        height: auto;
+        padding: 20px;
+    }
+    .speciality-part-section2 .card {
+        height: auto;
+        margin-top: 20px;
+    }
+    .speciality-part-section3-p {
+        font-family: "Poppins";
+        color: #75A43D;
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 20px;
+    }
+    .speciality-part-section3-next-part {
+        padding: 0px;
+    }
+    .next-get-intouch-btn {
+        background-color: #E4A736;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 0% 9% 7% 4%;
+    }
+    .speciality-part-section4-paragraph {
+        font-size: 2rem;
+    }
+    .speciality-part-section4-left-div1-p1 {
+        color: white;
+        font-family: "Poppins";
+        font-size: 1rem;
+        font-weight: 400;
+        margin: 5% 5% 5% 3%;
+        padding: 20px;
+    }
+    .speciality-part-section4-left-div1 {
+        background-color: #E4A736;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-right-div1 {
+        margin-top: 20px;
+        background-color: #F3FFE4;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-left-div1-p2 {
+        color: black;
+        font-family: "Poppins";
+        font-size: 1rem;
+        font-weight: 400;
+        margin: 5% 5% 5% 3%;
+    }
+}
+
+@media screen and (min-width:500px) and (max-width:600px){
+    .speciality-part-section3-p2 {
+        font-size: 1rem;
+    }
+    .speciality-part-section4-left-div1-p1 {
+        margin: 4% 5% 6% 3%;
+    }
+    .speciality-part-section3 .card{
+        width: 50%;
+        margin: 4% 1% 4% 25%;
+    }
+    .speciality-part-section2 {
+        background-repeat: repeat;
+
+    }
+    .speciality-contact-details-secton1-row1-div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        gap: 10px;
+        padding: 10px;
+    }
+    .speciality-part-section1 {
+        background-image: url(images/Sec1-background-image1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 53vh;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+    .speciality-part-section1-heading {
+
+        width: 65%;
+    }
+    .speciality-contact-details-secton1 {
+        background-color: #75A43D;
+        padding: 27px;
+    }
+    .speciality-part-section2 .card {
+        height: auto;
+        width: 78%;
+        margin: 0% 0% 10% 14%;
+    }
+    .speciality-part-section3-p {
+        font-size: 2rem;
+    }
+    .speciality-part-section3-next-part {
+        padding: 0px;
+    }
+    .next-get-intouch-btn {
+        width: auto;
+        margin: 5% 0% 5% 5%;
+    }
+    .speciality-part-section4-left-div1 {
+        background-color: #E4A736;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-right-div1 {
+        background-color: #F3FFE4;
+        height: auto;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+    .speciality-part-section4-left-div1-p2 {
+        margin: 2% 5% 7% 7%;
+    }
+    .speciality-part-section4 {
+        height: auto;
+    }
+    .speciality-part-section2-heading-p {
+        font-family: "Poppins";
+        color: white;
+        font-size: 3rem;
+        border-bottom: none;
+        font-weight: 700;
+        padding: 10px;
+    }
+    .speciality-part-section4-paragraph {
+        font-size: 2rem;
+    }
+} 
+
+@media screen and (min-width:600px) and (max-width:700px){
+    .speciality-part-section2-row1-col-div3{
+        margin-top: 10px;
+    }
+    .speciality-contact-details-secton1-row1-div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        gap: 10px;
+        font-family: "Poppins";
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 10px;
+    }
+    .speciality-part-section1-heading {
+
+        width: auto;
+    }
+    .speciality-part-section2-heading-p {
+        font-size: 2rem;
+        border-bottom: none;
+    }
+    .speciality-part-section2 .card {
+        height: 100%;
+        margin: 3% 0% 10% 0%;
+    }
+    .speciality-part-section2 {
+        background-repeat: repeat;
+    }
+    .speciality-part-section3-next-part {
+        padding: 2px;
+    }
+    .next-get-intouch-btn {
+        margin: 3% 0% 4% 6%;
+    }
+    .speciality-part-section3 img {
+        width: 50%;
+    }
+    .speciality-part-section4-left-div1 {
+        background-color: #E4A736;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-right-div1 {
+        background-color: #F3FFE4;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-left-div1-p2 {
+        margin: 4% 5% 0% 3%;
+    }
+}
+
+@media screen and (min-width : 768px) and (max-width:992px)
+{
+    .speciality-contact-details-secton1-row1-div {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        padding: 10px;
+    }
+    .speciality-part-section1 {
+        height: 46vh;
+    }
+    .speciality-part-section1-heading {
+        width: auto;
+    }
+    .speciality-part-section2 .card {
+        height: 100%;
+    }
+    .speciality-part-section3-next-part {
+        padding: 12px;
+    }
+    .next-get-intouch-btn {
+        width: auto;
+    }
+    .speciality-part-section4-right-div1 {
+        background-color: #F3FFE4;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4-left-div1 {
+        background-color: #E4A736;
+        height: auto;
+        border-radius: 10px;
+    }
+    .speciality-part-section4 {
+        height: auto;
+    }
+}

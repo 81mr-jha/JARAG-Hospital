@@ -1,0 +1,86 @@
+
+.Jarag-sec1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;   
+    background: #E1DFDF;
+    padding: 4% 0% 4% 0%;
+}
+
+.Jarag-row1-col1-maincol{
+    margin: 0px 32px;
+}
+.Jarag-col1-maincol-p1{
+    width: auto;
+    height: 30px;
+    margin-top: 20px;
+    color: white;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;    
+}
+.Jarag-row1-col1-subcol{
+    margin: 8% 0% 0% 0%;
+}
+.Jarag-row1-col1-subcol .div1{
+    
+}
+.Jarag-col1{
+    background: url(images/contact-left-div-img.png);
+}
+.Jarag-row1-col1-subcol-div1{
+    display: flex;
+    text-align: left;
+    margin: 5% 0% 0% 0%
+}
+.Jarag-row1-col1-subcol-div1-para1{
+    margin-left: 20px;
+}
+.Jarag-row1-col1-subcol-div1-para1 h4{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+.Jarag-row1-col1-subcol-div1-para1 p{
+    color: white;
+    text-align: left;
+    font-size: 16px;
+}
+
+
+
+.jarag-contact-sec2-right-main{
+    background: white;
+}
+
+
+.Jarag-col2-p{
+    text-align: center;
+    font-size:2rem;
+    font-weight: 700;
+    color: #75A43D;
+}
+.Jarag-hospital-contact-btn-div{
+    display: flex;
+    justify-content: center;
+}
+.Jarag-hospital-contact-btn{
+    background-color: #E4A736;
+    width: 100%;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 1% 0% 1% 0%;
+    
+}
+
+
+@media (min-width:310px) and (max-width:768px)
+{
+    
+    .Jarag-row1-col1-maincol {
+        margin: 0px 8px;
+    }
+} 

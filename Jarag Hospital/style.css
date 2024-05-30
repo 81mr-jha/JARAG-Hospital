@@ -1,0 +1,514 @@
+
+
+
+/* ***************************sec1************************* */
+
+.jarag-hm-sec1 {
+    background: url(images/jarag-hm-sec1-bg.png);
+    height: auto;
+    background-size: cover;
+    padding: 2% 0% 21% 0%;
+    background-repeat: no-repeat;
+}
+
+.jarag-hm-sec1-sub1 {
+    margin: 0% 35% 0% 6%;
+}
+
+.jarag-hm-sec1-sun-opd-main {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.jarag-hm-sec1-sun-opd {
+    background: #F5F5F5;
+    margin: 1% 3% 0% 3%;
+    padding: 1% 2% 0% 2%;
+    width: 35%;
+}
+
+.jarag-hm-sec1-sun-opd-p1 {
+    font-size: 1rem;
+    color: #75A43D;
+    font-weight: 700;
+}
+
+.jarag-hm-sec1-sun-opd-p2 {
+    font-size: 1rem;
+    color: #75A43D;
+
+}
+
+.jarag-hm-sec1-title1 {
+    font-size: 4rem;
+    color: #333333;
+    font-weight: 700;
+    margin: 0% 0% 5% 0%;
+}
+
+.jarag-hm-sec1-btn1 {
+    border: 1px solid #E4A736;
+    padding: 1% 3% 1% 3%;
+    font-weight: 600;
+    color: white;
+    background: #E4A736;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 0 0 0 0px;
+}
+
+
+
+@media (min-width:310px) and (max-width:768px) {
+    .jarag-hm-sec1-sun-opd {
+        background: #F5F5F5;
+        margin: 1% 3% 0% 3%;
+        padding: 1% 2% 0% 2%;
+        width: 70%;
+    }
+
+    .jarag-hm-sec1-sub1 {
+        margin: 0% 3% 0% 3%;
+    }
+
+    .jarag-hm-sec1-title1 {
+        font-size: 1.5rem;
+
+        font-weight: 700;
+        margin: 4% 0% 5% 0%;
+    }
+
+    .jarag-hm-sec1 {
+        background: url(images/jarag-hm-sec1-bg.png);
+        height: auto;
+        background-size: cover;
+        padding: 2% 0% 3% 0%;
+        background-repeat: no-repeat;
+    }
+}
+
+@media (min-width:769px) and (max-width:1150px) {
+    .jarag-hm-sec1-sun-opd {
+        background: #F5F5F5;
+        margin: 1% 3% 0% 3%;
+        padding: 1% 2% 0% 2%;
+        width: 70%;
+    }
+
+    .jarag-hm-sec1-sub1 {
+        margin: 0% 35% 0% 3%;
+    }
+
+    .jarag-hm-sec1-title1 {
+        font-size: 2.5rem;
+
+        font-weight: 700;
+    }
+
+    .jarag-hm-sec1 {
+        background: url(images/jarag-hm-sec1-bg.png);
+        height: auto;
+        background-size: cover;
+        padding: 2% 0% 3% 0%;
+        background-repeat: no-repeat;
+    }
+}
+
+
+
+
+
+/* ***************************se2************************* */
+
+.jarag-hm-sec2 {
+    height: auto;
+    background: url(images/jarag-hm-sec2-left-bg1.png);
+    background-position: left top 67%;
+    background-size: 20%;
+    background-repeat: no-repeat;
+}
+
+.jarag-hm-sec2-container1 {
+    margin-top: -8%;
+}
+
+.jarag-hm-sec2-container1-card {
+    border: 1px solid #4E7E14;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 100%;
+}
+
+.jarag-hm-sec2-container1-card-ul {
+    color: #A9A9A9;
+    border: 1px solid;
+}
+
+.jarag-hm-sec2-container1-ico1 {
+    width: 35%;
+    margin: 0% 0% 20% 0%;
+}
+
+.jarag-hm-sec2-container1-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0% 20% 0% 0%;
+}
+
+.jarag-hm-sec2-row2-main {
+    margin: 4% 3% 0% 3%;
+}
+
+.jarag-hm-sec2-row2-left-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jarag-hm-sec2-row2-left-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec2-row2-left-p2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.3rem;
+}
+
+.jarag-hm-sec2-row2-left-btn1 {
+    color: #E4A736;
+    border: 1px solid #E4A736;
+    padding: 1% 4% 1% 4%;
+    border-radius: 8px;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+.jarag-hm-sec2-row2-left-btn1:hover {
+    background: #E4A736;
+    color: white;
+}
+
+.jarag-hm-sec2-row2-right-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jarag-hm-sec2-row2-right-img1 {
+    width: 70%;
+}
+
+@media (min-width:310px) and (max-width:1150px) {
+
+    .jarag-hm-sec2-container1 {
+        margin-top: 5%;
+    }
+
+
+
+
+}
+
+
+@media (min-width:310px) and (max-width:768px) {
+
+    .jarag-hm-sec2-row2-right-img1 {
+        width: 70%;
+        margin: 5% 0% 0% 0%;
+    }
+
+    .jarag-hm-sec2-container1-col1 {
+        margin: 3% 0% 0% 0%;
+    }
+
+    .jarag-hm-sec2-container1-ico1 {
+        width: 35%;
+        margin: 0% 0% 10% 0%;
+    }
+}
+
+/* ***************************se3************************* */
+
+
+.jarag-hm-sec3 {
+    height: auto;
+    padding: 2% 0% 5% 0%;
+}
+
+.jarag-hm-sec3-main {
+    background: #F1F6EC;
+    padding: 2% 2% 2% 2%;
+    margin: 2% 3% 0% 3%;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+
+.jarad-hm-sec3-main-left-col-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+.jarad-hm-sec3-main-left-col-p2 {
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.jarad-hm-sec3-main-left-col-p3 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+.jarad-hm-sec3-main-left-col-p4 {
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+
+.jarad-hm-sec3-main-right-img {
+    width: 80%;
+}
+
+
+
+@media (min-width:310px) and (max-width:768px) {
+    .jarad-hm-sec3-main-left-col-p1 {
+        margin: 3% 0% 0% 0%;
+    }
+}
+
+/* ***************************se4************************* */
+
+.jarag-hm-sec4 {
+    background: #F1F6EC;
+    height: auto;
+}
+
+.jarag-hm-sec4-main {
+    background: url(images/jarag-hm-sec4-left-bg.png);
+    background-repeat: no-repeat;
+    background-size: 36%;
+    background-position: center left;
+    height: 100%;
+    padding: 2% 3% 4% 3%;
+}
+
+.jarag-hm-sec4-right-col-leftside {
+    margin: 12% 0% 0% 0%;
+}
+
+.jarag-hm-sec4-main-row1-col1-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+
+.jarag-hm-sec4-main-row1-col1-p2 {
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.jarag-hm-sec4-right-col-card1 {
+    background: #E4A736;
+    border: none;
+    margin: 5% 0% 0% 0%;
+}
+
+.jarag-hm-sec4-right-col-box1-p1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec4-right-col-box1-p2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9rem;
+}
+
+.jarag-hm-sec4-right-col-card2 {
+    background: #75A43D;
+    border: none;
+    margin: 5% 0% 0% 0%;
+}
+
+.jarag-hm-sec4-right-col-box2-p1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec4-right-col-box2-p2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9rem;
+}
+
+.jarag-hm-sec4-right-col-card3 {
+    background: #75A43D;
+    border: none;
+    margin: 5% 0% 0% 0%;
+}
+
+.jarag-hm-sec4-right-col-box3-p1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec4-right-col-box3-p2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9rem;
+}
+
+.jarag-hm-sec4-right-col-card4 {
+    background: #E4A736;
+    border: none;
+    margin: 5% 0% 0% 0%;
+}
+
+.jarag-hm-sec4-right-col-box4-p1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec4-right-col-box4-p2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9rem;
+}
+
+.jarag-hm-sec4-right-col-box1-img1 {
+    width: 25%;
+}
+
+.jarag-hm-sec4-right-col-box2-img1 {
+    width: 25%;
+}
+
+.jarag-hm-sec4-right-col-box3-img1 {
+    width: 25%;
+}
+
+.jarag-hm-sec4-right-col-box4-img1 {
+    width: 25%;
+}
+
+
+
+.jarag-hm-sec4-right-col-rowinside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ***************************se5************************* */
+
+.jarag-hm-sec5 {
+    height: auto;
+    padding: 4% 0% 5% 0%;
+}
+
+.jarag-hm-sec5-left-col-main {
+    /* padding: 0% 0% 0% 4%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.jarag-hm-sec5-left-col-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.jarag-hm-sec5-left-col-ul li {
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 2% 0% 1% 0%;
+}
+
+.jarag-hm-sec5-left-col-ul li::marker {
+    color: #75A43D;
+
+}
+
+
+.jarag-hm-sec5-right-col-img {
+    width: 80%;
+}
+
+/* ***************************se5************************* */
+
+.jarag-hm-sec6 {
+    height: auto;
+}
+
+.jarag-hm-sec6-main-div {
+    background: #F1F6EC;
+    margin: 3% 5% 3% 5%;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.jarag-hm-sec6-left-div {
+    padding: 0% 0% 0% 0%;
+}
+
+.jarag-hm-sec6-right-div {
+    padding: 0% 0% 0% 0%;
+}
+
+.jarag-hm-sec6-left-div-img1 {
+    width: 100%;
+}
+
+.jarag-hm-sec6-right-div-p1 {
+    color: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 3% 0% 0% 3%;
+}
+
+.jarag-hm-sec6-right-div-p2 {
+    color: white;
+    background: #75A43D;
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+
+    /* font-weight: 500; */
+    margin: 3% 0% 0% 0%;
+    padding: 5% 5% 5% 5%;
+}

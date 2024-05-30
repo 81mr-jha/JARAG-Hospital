@@ -1,0 +1,66 @@
+
+/************ footer *******************/
+
+.Jarag-hospital-footer{
+    background-color: #75A43D;
+    height: auto;
+    color: #DEDEDE;
+    padding: 4% 4% 4% 4%;
+}
+.Jarag-hospital-footer-col1-div {
+    /* margin-top: 3%; */
+}
+.Jarag-hospital-footer-col1-div img{
+    margin: 3% 0% 0% 0%;
+}   
+.Jarag-hospital-footer-col1-div-p{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+.Jarag-row1-col1-subcol-div1-para1-p1{
+    color: white;
+}
+
+.Jarag-hospital-footer-col2-div{
+    /* margin-top: 4%; */
+}
+.Jarag-hospital-footer-col2-div-p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+}
+
+.Jarag-hospital-footer-col2-div-span-txt1{
+    color: white;
+}
+.Jarag-hospital-footer-col2-div img{
+    margin: 0% 3% 0% 0%;
+}
+.Jarag-hospital-footer-col3-div{
+    /* margin-top: 4%; */
+}
+
+.Jarag-hospital-footer-col3-div a {
+    text-decoration: none;
+    color: white;
+}
+.Jarag-hospital-footer-col4-div{
+    /* margin-top: 4%; */
+}
+
+.Jarag-hospital-footer-col4-div-p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+}
+.social-media-icon-footer img{
+    margin: 0% 3% 0% 0%;
+}
+
+.Jarag-hospital-footer-col2-add1{
+    text-decoration: none;
+}
+.Jarag-hospital-footer-col2-mail{
+    text-decoration: none;
+}
