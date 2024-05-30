@@ -297,7 +297,7 @@
         padding: 12px;
     }
     .speciality-part-section1 {
-        background-image: none;
+        /* background-image: none; */
         background-size: contain;
         /* background-position: center top; */
         height: auto;
@@ -306,13 +306,13 @@
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        width: 100%;
+        /* width: 100%; */
         margin: 6% 0% 6% 0%;
         box-shadow: none;
     }
     .speciality-part-section1-heading-p {
         font-family: "Poppins";
-        font-size: 2rem;
+        font-size: 1.3rem;
         font-weight: 700;
         color: black;
         text-align: center;
